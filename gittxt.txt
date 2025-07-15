@@ -2,3 +2,5 @@ Git
 
 git status :Used to find the status of the git repo
 git init :Used to initialize a git repository
+git add filename.exe :used to add the file(staged files)
+git commit:To commit the entire operations
