@@ -8,3 +8,4 @@ git log:used to list the commits
 git add.:Uesd to add entire files in the repo
 git reset--hard:
 git checkout HEAD / HEAD -f:
+git status/branch :used to find the branch
