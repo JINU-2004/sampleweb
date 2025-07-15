@@ -1,0 +1,4 @@
+Git
+
+git status :Used to find the status of the git repo
+git init :Used to initialize a git repository
