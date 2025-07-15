@@ -6,3 +6,5 @@ git add filename.exe :used to add the file(staged files)
 git commit:To commit the entire operations
 git log:used to list the commits
 git add.:Uesd to add entire files in the repo
+git reset--hard:
+git checkout HEAD / HEAD -f:
